@@ -1,0 +1,480 @@
+activation_function: Relu
+Learning rate: 0.001
+iterations: 100
+Split: 0.8
+Train Mean Squared Error: 2998.6072082474075
+Test Mean Squared Error: 3722.5220113974915
+Train RMSE: 54.75953988345234
+Test RMSE: 61.01247422779617
+Train  Mean absolute Error: 38.50101662536893
+Test Mean absolute Error: 51.23393903205026
+Train R2 score: 0.9242336978260242
+Test R2 score: 0.5755662414092797
+
+----------------------------
+
+activation_function: Relu
+Learning rate: 0.001
+iterations: 100
+Split: 0.9
+Train Mean Squared Error: 3361.476582647026
+Test Mean Squared Error: 2780.198186687879
+Train RMSE: 57.97824232112445
+Test RMSE: 52.72758468475376
+Train  Mean absolute Error: 42.01829462403153
+Test Mean absolute Error: 46.886903998386835
+Train R2 score: 0.9069074577448807
+Test R2 score: 0.7353395818043041
+
+----------------------------
+
+activation_function: Relu
+Learning rate: 0.001
+iterations: 100
+Split: 0.8
+Train Mean Squared Error: 2954.589278712756
+Test Mean Squared Error: 3683.3109448321457
+Train RMSE: 54.35613377267331
+Test RMSE: 60.690287071591165
+Train  Mean absolute Error: 38.170701517592654
+Test Mean absolute Error: 50.928480462014456
+Train R2 score: 0.9253459061009267
+Test R2 score: 0.5800370008325215
+
+----------------------------
+
+activation_function: Relu
+Learning rate: 0.001
+iterations: 100
+Split: 0.9
+Train Mean Squared Error: 3162.8360278890073
+Test Mean Squared Error: 2617.9008831489014
+Train RMSE: 56.239096969003754
+Test RMSE: 51.165426638980556
+Train  Mean absolute Error: 40.60623287895218
+Test Mean absolute Error: 45.04931444346374
+Train R2 score: 0.9124085980273543
+Test R2 score: 0.7507894416136983
+
+----------------------------
+
+activation_function: Relu
+Learning rate: 0.001
+iterations: 200
+Split: 0.8
+Train Mean Squared Error: 3290.5043671383264
+Test Mean Squared Error: 3812.0999315242607
+Train RMSE: 57.36291804936641
+Test RMSE: 61.74220543132761
+Train  Mean absolute Error: 41.345917454756965
+Test Mean absolute Error: 52.20637817188284
+Train R2 score: 0.9168582842395343
+Test R2 score: 0.565352764306999
+
+----------------------------
+
+activation_function: Relu
+Learning rate: 0.001
+iterations: 200
+Split: 0.9
+Train Mean Squared Error: 3422.806230706278
+Test Mean Squared Error: 2832.3700270362265
+Train RMSE: 58.50475391544073
+Test RMSE: 53.22001528594507
+Train  Mean absolute Error: 42.37349600522605
+Test Mean absolute Error: 47.45455598098482
+Train R2 score: 0.9052089979421497
+Test R2 score: 0.7303730937493348
+
+----------------------------
+
+activation_function: Relu
+Learning rate: 0.001
+iterations: 200
+Split: 0.8
+Train Mean Squared Error: 3717.6886441211504
+Test Mean Squared Error: 4520.223402907881
+Train RMSE: 60.972851697465735
+Test RMSE: 67.23260669428102
+Train  Mean absolute Error: 43.01613151047592
+Test Mean absolute Error: 56.35787116744431
+Train R2 score: 0.9060645487596649
+Test R2 score: 0.484614086178182
+
+----------------------------
+
+activation_function: Relu
+Learning rate: 0.001
+iterations: 200
+Split: 0.9
+Train Mean Squared Error: 3427.9952697056865
+Test Mean Squared Error: 2848.2067262778437
+Train RMSE: 58.54908427725994
+Test RMSE: 53.368593070061756
+Train  Mean absolute Error: 42.64952024737943
+Test Mean absolute Error: 47.49963947188667
+Train R2 score: 0.9050652929897459
+Test R2 score: 0.728865522287633
+
+----------------------------
+
+activation_function: Relu
+Learning rate: 0.01
+iterations: 100
+Split: 0.8
+Train Mean Squared Error: 252879.36643050393
+Test Mean Squared Error: 195095.99249780228
+Train RMSE: 502.87112308274766
+Test RMSE: 441.6967200441976
+Train  Mean absolute Error: 461.84663050753784
+Test Mean absolute Error: 431.65429671428575
+Train R2 score: -5.3895445985189205
+Test R2 score: -21.244415245443456
+
+----------------------------
+
+activation_function: Relu
+Learning rate: 0.01
+iterations: 100
+Split: 0.9
+Train Mean Squared Error: 244127.3213885936
+Test Mean Squared Error: 228466.05087976786
+Train RMSE: 494.09242190970065
+Test RMSE: 477.9812244008836
+Train  Mean absolute Error: 456.0902796026786
+Test Mean absolute Error: 466.8632302083334
+Train R2 score: -5.760848223461546
+Test R2 score: -20.74878066566653
+
+----------------------------
+
+activation_function: Relu
+Learning rate: 0.01
+iterations: 100
+Split: 0.8
+Train Mean Squared Error: 252879.36643050393
+Test Mean Squared Error: 195095.99249780228
+Train RMSE: 502.87112308274766
+Test RMSE: 441.6967200441976
+Train  Mean absolute Error: 461.84663050753784
+Test Mean absolute Error: 431.65429671428575
+Train R2 score: -5.3895445985189205
+Test R2 score: -21.244415245443456
+
+----------------------------
+
+activation_function: Relu
+Learning rate: 0.01
+iterations: 100
+Split: 0.9
+Train Mean Squared Error: 244127.3213885936
+Test Mean Squared Error: 228466.05087976786
+Train RMSE: 494.09242190970065
+Test RMSE: 477.9812244008836
+Train  Mean absolute Error: 456.0902796026786
+Test Mean absolute Error: 466.8632302083334
+Train R2 score: -5.760848223461546
+Test R2 score: -20.74878066566653
+
+----------------------------
+
+activation_function: Relu
+Learning rate: 0.01
+iterations: 200
+Split: 0.8
+Train Mean Squared Error: 252879.36643050393
+Test Mean Squared Error: 195095.99249780228
+Train RMSE: 502.87112308274766
+Test RMSE: 441.6967200441976
+Train  Mean absolute Error: 461.84663050753784
+Test Mean absolute Error: 431.65429671428575
+Train R2 score: -5.3895445985189205
+Test R2 score: -21.244415245443456
+
+----------------------------
+
+activation_function: Relu
+Learning rate: 0.01
+iterations: 200
+Split: 0.9
+Train Mean Squared Error: 244127.3213885936
+Test Mean Squared Error: 228466.05087976786
+Train RMSE: 494.09242190970065
+Test RMSE: 477.9812244008836
+Train  Mean absolute Error: 456.0902796026786
+Test Mean absolute Error: 466.8632302083334
+Train R2 score: -5.760848223461546
+Test R2 score: -20.74878066566653
+
+----------------------------
+
+activation_function: Relu
+Learning rate: 0.01
+iterations: 200
+Split: 0.8
+Train Mean Squared Error: 252879.36643050393
+Test Mean Squared Error: 195095.99249780228
+Train RMSE: 502.87112308274766
+Test RMSE: 441.6967200441976
+Train  Mean absolute Error: 461.84663050753784
+Test Mean absolute Error: 431.65429671428575
+Train R2 score: -5.3895445985189205
+Test R2 score: -21.244415245443456
+
+----------------------------
+
+activation_function: Relu
+Learning rate: 0.01
+iterations: 200
+Split: 0.9
+Train Mean Squared Error: 244127.3213885936
+Test Mean Squared Error: 228466.05087976786
+Train RMSE: 494.09242190970065
+Test RMSE: 477.9812244008836
+Train  Mean absolute Error: 456.0902796026786
+Test Mean absolute Error: 466.8632302083334
+Train R2 score: -5.760848223461546
+Test R2 score: -20.74878066566653
+
+----------------------------
+
+activation_function: TanH
+Learning rate: 0.001
+iterations: 100
+Split: 0.8
+Train Mean Squared Error: 2983.335480605556
+Test Mean Squared Error: 4389.8524026971
+Train RMSE: 54.61991835041092
+Test RMSE: 66.25596126158838
+Train  Mean absolute Error: 39.4769130036342
+Test Mean absolute Error: 52.948894217678394
+Train R2 score: 0.9246195710834647
+Test R2 score: 0.49947870039974307
+
+----------------------------
+
+activation_function: TanH
+Learning rate: 0.001
+iterations: 100
+Split: 0.9
+Train Mean Squared Error: 3301.885249482844
+Test Mean Squared Error: 2816.27527966627
+Train RMSE: 57.46203311302902
+Test RMSE: 53.06859033049842
+Train  Mean absolute Error: 41.74397734836469
+Test Mean absolute Error: 46.46782484964039
+Train R2 score: 0.9085577767532782
+Test R2 score: 0.7319052300517332
+
+----------------------------
+
+activation_function: TanH
+Learning rate: 0.001
+iterations: 100
+Split: 0.8
+Train Mean Squared Error: 3249.977912702603
+Test Mean Squared Error: 4978.669871089974
+Train RMSE: 57.0085775362147
+Test RMSE: 70.55969012892541
+Train  Mean absolute Error: 42.06973399927432
+Test Mean absolute Error: 56.09669484101999
+Train R2 score: 0.9178822728380982
+Test R2 score: 0.4323430298869344
+
+----------------------------
+
+activation_function: TanH
+Learning rate: 0.001
+iterations: 100
+Split: 0.9
+Train Mean Squared Error: 3349.9818486723807
+Test Mean Squared Error: 2910.7849740968923
+Train RMSE: 57.879027710150595
+Test RMSE: 53.95169111433758
+Train  Mean absolute Error: 42.84983673272195
+Test Mean absolute Error: 45.9025511274113
+Train R2 score: 0.9072257922570919
+Test R2 score: 0.7229083983253755
+
+----------------------------
+
+activation_function: TanH
+Learning rate: 0.001
+iterations: 200
+Split: 0.8
+Train Mean Squared Error: 2745.508998876887
+Test Mean Squared Error: 3876.483826607603
+Train RMSE: 52.39760489637753
+Test RMSE: 62.261415231326076
+Train  Mean absolute Error: 37.51762318177864
+Test Mean absolute Error: 50.27581964881534
+Train R2 score: 0.9306287719651499
+Test R2 score: 0.5580118544348033
+
+----------------------------
+
+activation_function: TanH
+Learning rate: 0.001
+iterations: 200
+Split: 0.9
+Train Mean Squared Error: 3096.1080527785703
+Test Mean Squared Error: 2660.173572119707
+Train RMSE: 55.642681933732945
+Test RMSE: 51.57687051498672
+Train  Mean absolute Error: 40.421869351518964
+Test Mean absolute Error: 44.92213063254534
+Train R2 score: 0.9142565587939515
+Test R2 score: 0.7467653013222473
+
+----------------------------
+
+activation_function: TanH
+Learning rate: 0.001
+iterations: 200
+Split: 0.8
+Train Mean Squared Error: 2905.228260028017
+Test Mean Squared Error: 4272.954699049446
+Train RMSE: 53.90016938774884
+Test RMSE: 65.36784147460773
+Train  Mean absolute Error: 38.95175031038537
+Test Mean absolute Error: 52.03802799590183
+Train R2 score: 0.9265931190893424
+Test R2 score: 0.5128071190304153
+
+----------------------------
+
+activation_function: TanH
+Learning rate: 0.001
+iterations: 200
+Split: 0.9
+Train Mean Squared Error: 3576.2459684160544
+Test Mean Squared Error: 3025.924552631847
+Train RMSE: 59.80172211915017
+Test RMSE: 55.00840438180194
+Train  Mean absolute Error: 43.60196601825617
+Test Mean absolute Error: 48.24463609026873
+Train R2 score: 0.9009596465291128
+Test R2 score: 0.7119477088494066
+
+----------------------------
+
+activation_function: TanH
+Learning rate: 0.01
+iterations: 100
+Split: 0.8
+Train Mean Squared Error: 3227.797913611027
+Test Mean Squared Error: 5280.295954795454
+Train RMSE: 56.81371237307968
+Test RMSE: 72.66564494171544
+Train  Mean absolute Error: 40.890953256116816
+Test Mean absolute Error: 57.471832558395846
+Train R2 score: 0.9184426985279881
+Test R2 score: 0.39795228834016894
+
+----------------------------
+
+activation_function: TanH
+Learning rate: 0.01
+iterations: 100
+Split: 0.9
+Train Mean Squared Error: 3548.3249329583355
+Test Mean Squared Error: 4083.7188293459326
+Train RMSE: 59.56781793014023
+Test RMSE: 63.90398132625175
+Train  Mean absolute Error: 43.70804753433253
+Test Mean absolute Error: 57.06183499709152
+Train R2 score: 0.9017328901050379
+Test R2 score: 0.6112511912483782
+
+----------------------------
+
+activation_function: TanH
+Learning rate: 0.01
+iterations: 100
+Split: 0.8
+Train Mean Squared Error: 3181.4695511706914
+Test Mean Squared Error: 5462.72320315089
+Train RMSE: 56.40451711672294
+Test RMSE: 73.9102374718881
+Train  Mean absolute Error: 40.799111538889875
+Test Mean absolute Error: 57.83228067313583
+Train R2 score: 0.9196132848916257
+Test R2 score: 0.3771523353911217
+
+----------------------------
+
+activation_function: TanH
+Learning rate: 0.01
+iterations: 100
+Split: 0.9
+Train Mean Squared Error: 3385.4237932861074
+Test Mean Squared Error: 3713.551535683671
+Train RMSE: 58.18439475740989
+Test RMSE: 60.93891643017351
+Train  Mean absolute Error: 42.26200045081017
+Test Mean absolute Error: 54.376041188843715
+Train R2 score: 0.9062442650486058
+Test R2 score: 0.6464891937807573
+
+----------------------------
+
+activation_function: TanH
+Learning rate: 0.01
+iterations: 200
+Split: 0.8
+Train Mean Squared Error: 3177.5493004344926
+Test Mean Squared Error: 5415.3945730630385
+Train RMSE: 56.36975519225263
+Test RMSE: 73.58936453770367
+Train  Mean absolute Error: 42.869353015070665
+Test Mean absolute Error: 56.02309794526128
+Train R2 score: 0.9197123385126067
+Test R2 score: 0.3825486415232634
+
+----------------------------
+
+activation_function: TanH
+Learning rate: 0.01
+iterations: 200
+Split: 0.9
+Train Mean Squared Error: 4187.530350360776
+Test Mean Squared Error: 3282.487664750491
+Train RMSE: 64.71113003464532
+Test RMSE: 57.29299839204169
+Train  Mean absolute Error: 49.62406386779685
+Test Mean absolute Error: 48.65514822009379
+Train R2 score: 0.8840307714478911
+Test R2 score: 0.6875242339791483
+
+----------------------------
+
+activation_function: TanH
+Learning rate: 0.01
+iterations: 200
+Split: 0.8
+Train Mean Squared Error: 3824.868972295113
+Test Mean Squared Error: 6636.935441299031
+Train RMSE: 61.84552507898298
+Test RMSE: 81.46738882092043
+Train  Mean absolute Error: 47.70008984434998
+Test Mean absolute Error: 62.62722041199
+Train R2 score: 0.9033564057560735
+Test R2 score: 0.24327124292356117
+
+----------------------------
+
+activation_function: TanH
+Learning rate: 0.01
+iterations: 200
+Split: 0.9
+Train Mean Squared Error: 3220.1650827715753
+Test Mean Squared Error: 2973.742872699917
+Train RMSE: 56.74649841859474
+Test RMSE: 54.53203528844231
+Train  Mean absolute Error: 42.09321139638889
+Test Mean absolute Error: 48.396885724220205
+Train R2 score: 0.9108209304256664
+Test R2 score: 0.7169151335815951
+
+----------------------------
+
